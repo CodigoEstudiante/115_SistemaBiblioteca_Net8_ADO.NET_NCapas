@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\test\\SistemaBiblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48018604-D766-431D-97C0-EA29429E4C70}|BibliotecaWeb\\BibliotecaWeb.csproj|c:\\test\\sistemabiblioteca\\bibliotecaweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{48018604-D766-431D-97C0-EA29429E4C70}|BibliotecaWeb\\BibliotecaWeb.csproj|solutionrelative:bibliotecaweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\test\\SistemaBiblioteca\\BibliotecaWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "BibliotecaWeb\\appsettings.json",
+              "ToolTip": "C:\\test\\SistemaBiblioteca\\BibliotecaWeb\\appsettings.json",
+              "RelativeToolTip": "BibliotecaWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-25T19:25:52.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

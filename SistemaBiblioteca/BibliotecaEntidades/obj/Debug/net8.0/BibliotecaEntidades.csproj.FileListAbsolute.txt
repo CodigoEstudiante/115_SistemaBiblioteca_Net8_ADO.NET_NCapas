@@ -1,0 +1,11 @@
+E:\WorkSpaceAD\YOUTUBE\115 SISTEMA BIBLIOTECA NET 8\SistemaBiblioteca\BibliotecaEntidades\bin\Debug\net8.0\BibliotecaEntidades.deps.json
+E:\WorkSpaceAD\YOUTUBE\115 SISTEMA BIBLIOTECA NET 8\SistemaBiblioteca\BibliotecaEntidades\bin\Debug\net8.0\BibliotecaEntidades.dll
+E:\WorkSpaceAD\YOUTUBE\115 SISTEMA BIBLIOTECA NET 8\SistemaBiblioteca\BibliotecaEntidades\bin\Debug\net8.0\BibliotecaEntidades.pdb
+E:\WorkSpaceAD\YOUTUBE\115 SISTEMA BIBLIOTECA NET 8\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpaceAD\YOUTUBE\115 SISTEMA BIBLIOTECA NET 8\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.AssemblyInfoInputs.cache
+E:\WorkSpaceAD\YOUTUBE\115 SISTEMA BIBLIOTECA NET 8\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.AssemblyInfo.cs
+E:\WorkSpaceAD\YOUTUBE\115 SISTEMA BIBLIOTECA NET 8\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.csproj.CoreCompileInputs.cache
+E:\WorkSpaceAD\YOUTUBE\115 SISTEMA BIBLIOTECA NET 8\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.dll
+E:\WorkSpaceAD\YOUTUBE\115 SISTEMA BIBLIOTECA NET 8\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\refint\BibliotecaEntidades.dll
+E:\WorkSpaceAD\YOUTUBE\115 SISTEMA BIBLIOTECA NET 8\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.pdb
+E:\WorkSpaceAD\YOUTUBE\115 SISTEMA BIBLIOTECA NET 8\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\ref\BibliotecaEntidades.dll

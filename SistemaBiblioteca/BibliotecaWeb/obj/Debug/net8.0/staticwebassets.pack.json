@@ -1,0 +1,377 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BibliotecaWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BibliotecaWeb.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\Views\\Categoria\\Categoria.js",
+      "PackagePath": "staticwebassets\\Views\\Categoria\\Categoria.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\Views\\Dashboard\\Dashboard.js",
+      "PackagePath": "staticwebassets\\Views\\Dashboard\\Dashboard.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\Views\\Estudiante\\Estudiante.js",
+      "PackagePath": "staticwebassets\\Views\\Estudiante\\Estudiante.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\Views\\Libro\\Libro.js",
+      "PackagePath": "staticwebassets\\Views\\Libro\\Libro.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\Views\\Prestamo\\Prestamo.js",
+      "PackagePath": "staticwebassets\\Views\\Prestamo\\Prestamo.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\Views\\Usuario\\Usuario.js",
+      "PackagePath": "staticwebassets\\Views\\Usuario\\Usuario.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\datatables1\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\datatables1\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables1\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables1\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\extensiones\\css\\buttons.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables1\\extensiones\\css\\buttons.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\extensiones\\css\\responsive.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables1\\extensiones\\css\\responsive.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\extensiones\\js\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables1\\extensiones\\js\\buttons.html5.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\extensiones\\js\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables1\\extensiones\\js\\buttons.print.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\extensiones\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables1\\extensiones\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\extensiones\\js\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables1\\extensiones\\js\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\extensiones\\js\\jszip.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables1\\extensiones\\js\\jszip.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\datatables1\\jquery.dataTables.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables1\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables1\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables2\\css\\dataTables.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\datatables2\\css\\dataTables.dataTables.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables2\\js\\dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\datatables2\\js\\dataTables.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\datatables2\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables2\\js\\moment.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\fontawesome\\all.js",
+      "PackagePath": "staticwebassets\\lib\\fontawesome\\all.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\moment\\moment.min.js",
+      "PackagePath": "staticwebassets\\lib\\moment\\moment.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\select2\\css\\select2-bootstrap-5-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\select2\\css\\select2-bootstrap-5-theme.min.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\lib\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\select2\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\select2.min.js"
+    },
+    {
+      "Id": "E:\\WorkSpaceAD\\YOUTUBE\\115 SISTEMA BIBLIOTECA NET 8\\SistemaBiblioteca\\BibliotecaWeb\\wwwroot\\lib\\sweetAlert2\\js\\sweetalert2.js",
+      "PackagePath": "staticwebassets\\lib\\sweetAlert2\\js\\sweetalert2.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BibliotecaWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BibliotecaWeb.props",
+      "PackagePath": "build\\BibliotecaWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BibliotecaWeb.props",
+      "PackagePath": "buildMultiTargeting\\BibliotecaWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BibliotecaWeb.props",
+      "PackagePath": "buildTransitive\\BibliotecaWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
